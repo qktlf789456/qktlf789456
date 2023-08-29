@@ -1,8 +1,13 @@
 # 👋
-<br>
+
+\
+&nbsp;
 
 👨‍💻 **About Me**: 
 I'm a Backend Developer with a curious and exploratory approach to server-side technologies.
+
+\
+&nbsp;
 
 ## 🎯 Areas of Interest
 - **Languages**: `Java`, `Kotlin`
@@ -16,11 +21,15 @@ I'm a Backend Developer with a curious and exploratory approach to server-side t
   - `High Traffic Handling`
   - `Systems`
 
+\
+&nbsp;
 
 ## 📈 Career Timeline
 - **Before November 2021**: `Computer Science Major at Kyungpook National University, Daegu`
 - **November 2021 - Present**: `Backend Developer at Kakao`
 
+\
+&nbsp;
 
 ## ✉️ Contact & More
 - 📧 Email: [qktlf789456@gmail.com]
