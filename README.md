@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋
+<br>
 
-<!--
-**qktlf789456/qktlf789456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **About Me**: 
+I'm a Backend Developer with a curious and exploratory approach to server-side technologies.
 
-Here are some ideas to get you started:
+## 🎯 Areas of Interest
+- **Languages**: `Java`, `Kotlin`
+- **Frameworks**: `Spring Framework`
+- **Specialties**: 
+  - `Object-Oriented Programming (OOP)`
+  - `Domain-Driven Design (DDD)`
+  - `Test-Driven Development (TDD)`
+  - `Various Development Architectures`
+  - `Algorithms`
+  - `High Traffic Handling`
+  - `Systems`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 Career Timeline
+- **Before November 2021**: `Computer Science Major at Kyungpook National University, Daegu`
+- **November 2021 - Present**: `Backend Developer at Kakao`
+
+
+## ✉️ Contact & More
+- 📧 Email: [qktlf789456@gmail.com]
+- 🔗 Profile Hits: [![HitCount](https://hits.dwyl.com/qktlf789456-github/DASHBOARD.svg?style=flat-square)](http://hits.dwyl.com/qktlf789456-github/DASHBOARD)
