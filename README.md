@@ -33,4 +33,4 @@ I'm a Backend Developer with a curious and exploratory approach to server-side t
 
 ## ✉️ Contact & More
 - 📧 Email: [qktlf789456@gmail.com]
-- 🔗 Profile Hits: [![HitCount](http://directories-dev-api.duckdns.org/api/download/ekJvNjlIYUNvVXBSWW80M25iMHhRd1dXaTFjSzRpY051SUVvdC93K2dTa2JESjgzYWRtSFdkUnY0dnhuMUhSYWJiOWhRV0s4bm82ZXg4RThGbS9POWUxSVo5Y1lPVEVaeWZNNWZ2RjRnZEo0bWhPTWRnR3ZIekFCUmFMYkxvaERtT2pXZm10Szc0ajdLZlhPRUIzaXg2bGJtWHZLSjEwWlFxQ1hMbTVaeHpZbXhUVWZuRE9EYm5MVG1PWXBtdWFKSVVGUkhKa2d6UU09)
+- 🔗 Profile Hits: [![HitCount](https://directories-dev-api.duckdns.org/api/download/ekJvNjlIYUNvVXBSWW80M25iMHhRd1dXaTFjSzRpY051SUVvdC93K2dTa2JESjgzYWRtSFdkUnY0dnhuMUhSYWJiOWhRV0s4bm82ZXg4RThGbS9POWUxSVo5Y1lPVEVaeWZNNWZ2RjRnZEo0bWhPTWRnR3ZIekFCUmFMYkxvaERtT2pXZm10Szc0ajdLZlhPRUIzaXg2bGJtWHZLSjEwWlFxQ1hMbTVaeHpZbXhUVWZuRE9EYm5MVG1PWXBtdWFKSVVGUkhKa2d6UU09)
